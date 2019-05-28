@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore source file
+TH3D_UFW_U1.R2.11.zip
